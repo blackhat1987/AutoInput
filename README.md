@@ -1,0 +1,3 @@
+# getandsetwindowtext
+程序asmtoexe的功能为输入一段汇编代码，自动将代码转化为硬编码。
+本程序的功能为自动向asmtoexe中输入汇编代码，并获取转化结果。
